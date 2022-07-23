@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bocian-generator/static/css/main.39694218.css",
-    "main.js": "/bocian-generator/static/js/main.fd797de8.js",
+    "main.css": "/bocian-generator/static/css/main.5911671d.css",
+    "main.js": "/bocian-generator/static/js/main.e6989e75.js",
     "static/js/787.bf6ff8da.chunk.js": "/bocian-generator/static/js/787.bf6ff8da.chunk.js",
     "static/media/krelowski1.png": "/bocian-generator/static/media/krelowski1.b40a01e301a23515e9ab.png",
     "static/media/stork.jpg": "/bocian-generator/static/media/stork.17a63c8cbbcb78f159c4.jpg",
     "index.html": "/bocian-generator/index.html",
-    "main.39694218.css.map": "/bocian-generator/static/css/main.39694218.css.map",
-    "main.fd797de8.js.map": "/bocian-generator/static/js/main.fd797de8.js.map",
+    "main.5911671d.css.map": "/bocian-generator/static/css/main.5911671d.css.map",
+    "main.e6989e75.js.map": "/bocian-generator/static/js/main.e6989e75.js.map",
     "787.bf6ff8da.chunk.js.map": "/bocian-generator/static/js/787.bf6ff8da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39694218.css",
-    "static/js/main.fd797de8.js"
+    "static/css/main.5911671d.css",
+    "static/js/main.e6989e75.js"
   ]
 }
