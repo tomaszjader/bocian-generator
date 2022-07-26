@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bocian-generator/static/css/main.41087716.css",
-    "main.js": "/bocian-generator/static/js/main.2dd0dd25.js",
+    "main.js": "/bocian-generator/static/js/main.33bf028e.js",
     "static/js/787.bf6ff8da.chunk.js": "/bocian-generator/static/js/787.bf6ff8da.chunk.js",
     "static/media/krelowski1.png": "/bocian-generator/static/media/krelowski1.b40a01e301a23515e9ab.png",
     "static/media/stork.jpg": "/bocian-generator/static/media/stork.17a63c8cbbcb78f159c4.jpg",
     "index.html": "/bocian-generator/index.html",
     "main.41087716.css.map": "/bocian-generator/static/css/main.41087716.css.map",
-    "main.2dd0dd25.js.map": "/bocian-generator/static/js/main.2dd0dd25.js.map",
+    "main.33bf028e.js.map": "/bocian-generator/static/js/main.33bf028e.js.map",
     "787.bf6ff8da.chunk.js.map": "/bocian-generator/static/js/787.bf6ff8da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41087716.css",
-    "static/js/main.2dd0dd25.js"
+    "static/js/main.33bf028e.js"
   ]
 }
